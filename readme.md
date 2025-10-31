@@ -11,6 +11,7 @@ This software is licensed under the GPL v2.0 License.
 
 ## クレジット
 * **WordPress Theme "Lightning"**: © Vektor,Inc.
+* **Font Awesome**: © Fonticons, Inc.
 * **Bootstrap**: © The Bootstrap Authors
 
 ## その他
